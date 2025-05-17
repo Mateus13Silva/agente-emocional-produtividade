@@ -49,7 +49,8 @@ Resultado:🤖 Sugestão: Que ótimo se sentir motivado para estudar! Aproveite 
 🎮 Pontos: 20 | Nível: Focado
 
 
-Gráfico de Emoções: ![Gráfico de Emoções](emocoes_plot (4).png)
+Gráfico de Emoções:
+![Gráfico de Emoções](emocoes_plot (4).png)
 
 🛠️ Tecnologias Usadas
 
