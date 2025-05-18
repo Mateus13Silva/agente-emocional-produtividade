@@ -8,6 +8,7 @@ Como Usar
 Exemplos
 Tecnologias Usadas
 Licença
+Vídeo de apresentação
 Contato
 
 ⚙️ Instalação
@@ -63,6 +64,9 @@ Google Colab: Ambiente de execução.
 
 📜 Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
+
+Vídeo de apresentação: https://drive.google.com/file/d/16vhipwnRGS4jFaxvIOZ1o5sHITAgnub4/view?usp=sharing
+
 📬 Contato
 Desenvolvido por Mateus Silva para a Imersão IA Alura & Google 2025. 
 
